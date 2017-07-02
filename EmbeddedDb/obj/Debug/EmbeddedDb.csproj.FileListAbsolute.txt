@@ -1,0 +1,27 @@
+C:\Development\Test_Apps\EmbeddedDb\EmbeddedDb\bin\Debug\EmbeddedDb.exe.config
+C:\Development\Test_Apps\EmbeddedDb\EmbeddedDb\bin\Debug\EmbeddedDb.exe
+C:\Development\Test_Apps\EmbeddedDb\EmbeddedDb\bin\Debug\EmbeddedDb.pdb
+C:\Development\Test_Apps\EmbeddedDb\EmbeddedDb\bin\Debug\EntityFramework.dll
+C:\Development\Test_Apps\EmbeddedDb\EmbeddedDb\bin\Debug\EntityFramework.SqlServer.dll
+C:\Development\Test_Apps\EmbeddedDb\EmbeddedDb\bin\Debug\System.Data.SQLite.dll
+C:\Development\Test_Apps\EmbeddedDb\EmbeddedDb\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Development\Test_Apps\EmbeddedDb\EmbeddedDb\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Development\Test_Apps\EmbeddedDb\EmbeddedDb\bin\Debug\EntityFramework.xml
+C:\Development\Test_Apps\EmbeddedDb\EmbeddedDb\bin\Debug\EntityFramework.SqlServer.xml
+C:\Development\Test_Apps\EmbeddedDb\EmbeddedDb\bin\Debug\System.Data.SQLite.xml
+C:\Development\Test_Apps\EmbeddedDb\EmbeddedDb\obj\Debug\EmbeddedDb.exe
+C:\Development\Test_Apps\EmbeddedDb\EmbeddedDb\obj\Debug\EmbeddedDb.pdb
+C:\Work\Cool Code\SQLite\EmbeddedDb\EmbeddedDb\bin\Debug\EmbeddedDb.exe.config
+C:\Work\Cool Code\SQLite\EmbeddedDb\EmbeddedDb\obj\Debug\EmbeddedDb.exe
+C:\Work\Cool Code\SQLite\EmbeddedDb\EmbeddedDb\obj\Debug\EmbeddedDb.pdb
+C:\Work\Cool Code\SQLite\EmbeddedDb\EmbeddedDb\bin\Debug\EmbeddedDb.exe
+C:\Work\Cool Code\SQLite\EmbeddedDb\EmbeddedDb\bin\Debug\EmbeddedDb.pdb
+C:\Work\Cool Code\SQLite\EmbeddedDb\EmbeddedDb\bin\Debug\EntityFramework.dll
+C:\Work\Cool Code\SQLite\EmbeddedDb\EmbeddedDb\bin\Debug\EntityFramework.SqlServer.dll
+C:\Work\Cool Code\SQLite\EmbeddedDb\EmbeddedDb\bin\Debug\System.Data.SQLite.dll
+C:\Work\Cool Code\SQLite\EmbeddedDb\EmbeddedDb\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Work\Cool Code\SQLite\EmbeddedDb\EmbeddedDb\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Work\Cool Code\SQLite\EmbeddedDb\EmbeddedDb\bin\Debug\EntityFramework.xml
+C:\Work\Cool Code\SQLite\EmbeddedDb\EmbeddedDb\bin\Debug\EntityFramework.SqlServer.xml
+C:\Work\Cool Code\SQLite\EmbeddedDb\EmbeddedDb\bin\Debug\System.Data.SQLite.xml
+C:\Work\Cool Code\SQLite\EmbeddedDb\EmbeddedDb\obj\Debug\EmbeddedDb.csprojResolveAssemblyReference.cache
